@@ -1,5 +1,9 @@
 # STM32F10X-GCC-FreeRTOS-simple-project
-A sample project implementing periodic functions with passed parameters running on STM32F103 and GCC ARM Embedde
+A sample project implementing periodic functions with passed parameters running on STM32F103 and GCC ARM Embedded.
+
+See the blog entry at:
+
+http://aviatorahmet.blogspot.com/2016/05/freertos-simple-project-for-stm32f103.html
 
 This is an example of how two periodic tasks can be created in FreeRTOS. It is intended as a starting point where the basic setup has been completed and working. It is easy to modify to your own needs.
 
